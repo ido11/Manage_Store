@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="adss2019_v03" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/devs/src/logic/inventory/InventoryInteractor.java" line="408" />
+    <bookmark url="file://$PROJECT_DIR$/devs/src/presistence/Repository.java" line="404" />
+    <bookmark url="file://$PROJECT_DIR$/devs/src/presistence/dao/deliveries/SupplierDAO.java" line="80" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e65ff05e-a6c5-4b66-adde-1aa27b276ee8" name="Default Changelist" comment="last commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devs/src/presentation/employees/EmployeesPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/devs/src/presentation/employees/EmployeesPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devs/src/presistence/dao/employees/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/devs/src/presistence/dao/employees/EmployeeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/adss2019_v03.jar" beforeDir="false" afterPath="$PROJECT_DIR$/release/adss2019_v03.jar" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devs/src/logic/inventory/InventoryInteractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="721">
+              <caret line="434" column="57" selection-start-line="434" selection-start-column="57" selection-end-line="434" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#39520#39521#0" expanded="true" />
+                <element signature="e#39567#39568#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devs/src/logic/Processor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="62" column="104" selection-start-line="62" selection-start-column="104" selection-end-line="62" selection-end-column="104" />
+              <folding>
+                <element signature="e#10032#10033#0" expanded="true" />
+                <element signature="e#10102#10103#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/employees/EmployeeDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="119" column="33" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/devs/src/presentation/employees/EmployeesPrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-221">
+              <caret line="90" column="27" lean-forward="true" selection-start-line="90" selection-start-column="27" selection-end-line="92" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devs/src/logic/employees/EmployeesInteractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-657">
+              <caret line="125" column="34" selection-start-line="125" selection-start-column="34" selection-end-line="125" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Repository.DAO_TYPE</find>
+      <find>login</find>
+      <find>MAX</find>
+      <find>star</find>
+      <find>sh</find>
+      <find>conne</find>
+      <find>sta</find>
+      <find>orderCr</find>
+      <find>saveOrder</find>
+      <find>chec</find>
+      <find>products</find>
+      <find>showDriverDoc</find>
+      <find>product</find>
+      <find>updatePrd</find>
+      <find>getAvailableStockKeepers</find>
+      <find>peri</find>
+      <find>supplierp</find>
+      <find>start</find>
+      <find>conn2.close</find>
+      <find>close</find>
+      <find>shif</find>
+      <find>branch_id</find>
+      <find>getB</find>
+      <find>insert</find>
+      <find>repo</find>
+      <find>branchID</find>
+      <find>getOptionalShift</find>
+      <find>2100</find>
+      <find>new Fille</find>
+      <find>compareDa</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>SUPPLIERPRODUCTS</replace>
+      <replace>getSupplierDAO</replace>
+      <replace>getInventoryDAO</replace>
+      <replace>repo.getSupplierDAO(Modules.</replace>
+      <replace>DeliveriesPrinter.getInstance()</replace>
+      <replace>Modules</replace>
+      <replace>branchID</replace>
+      <replace>supplierNum</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/devs/src/presistence/dao/suppliers</dir>
+      <dir>$PROJECT_DIR$/devs/src/logic/inventory</dir>
+      <dir>$PROJECT_DIR$/devs/src/logic/suppliers</dir>
+      <dir>$PROJECT_DIR$/devs/src/test</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/employees/ConstraintsDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presentation/InventoryPrinter.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/deliveries/ProductDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/deliveries/DeliveryDocDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/deliveries/DriverShiftDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/deliveries/SiteDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/deliveries/TruckDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/employees/UserDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/Modules.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/DAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/employees/RoleDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/employees/EmpRolesDescDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/deliveries/Windows/MainMenu.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/employees/models/Employee.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/Interactor.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/deliveries/DeliveryDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/inventory/ProductsDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/inventory/ProductsProcessor.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/deliveries/models/ProductDelivery.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/inventory/models/Product.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/deliveries/SiteReportDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/deliveries/models/Product.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/deliveries/ProductDeliveryDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/suppliers/models/Product.java" />
+        <option value="$PROJECT_DIR$/devs/src/presentation/inventory/printers/ProductsPrinter.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/suppliers/ProductDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/suppliers/DiscountDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/ConnectionHandler.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/employees/EmployeesInteractor.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/suppliers/SupplierType2DAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/suppliers/SupplierType3DAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/deliveries/Windows/DataManager.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/employees/ShiftsDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/deliveries/DriverDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/deliveries/models/SupplierOrder.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/Repository.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/deliveries/BranchDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/employees/ShiftsAssigningDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/deliveries/Windows/DeliveryManager.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/inventory/datatypes/Date.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/inventory/DefectiveDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/inventory/StockDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/Main.java" />
+        <option value="$PROJECT_DIR$/devs/src/presentation/suppliers/SupplierPrinter.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/suppliers/SupplierInteractor.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/deliveries/SupplierDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/presentation/inventory/InventoryPrinter.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/inventory/InventoryInteractor.java" />
+        <option value="$PROJECT_DIR$/devs/src/presistence/dao/employees/EmployeeDAO.java" />
+        <option value="$PROJECT_DIR$/devs/src/logic/Processor.java" />
+        <option value="$PROJECT_DIR$/devs/src/presentation/employees/EmployeesPrinter.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="415" />
+    <option name="y" value="-8" />
+    <option name="width" value="970" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="adss_group_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adss_group_11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adss_group_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adss_group_11" type="462c0819:PsiDirectoryNode" />
+              <item name="devs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adss_group_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adss_group_11" type="462c0819:PsiDirectoryNode" />
+              <item name="devs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adss_group_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adss_group_11" type="462c0819:PsiDirectoryNode" />
+              <item name="devs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adss_group_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adss_group_11" type="462c0819:PsiDirectoryNode" />
+              <item name="devs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+              <item name="employees" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adss_group_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adss_group_11" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adss_group_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adss_group_11" type="462c0819:PsiDirectoryNode" />
+              <item name="release" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553997698632" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect" value="SQLite" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/devs/src/presistence" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1992966" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="presistence.dao" />
+      <recent name="logic.datatypes" />
+      <recent name="test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="presistence.dao" />
+      <recent name="logic" />
+      <recent name="logic.inventory" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/devs/src/logic/deliveries" />
+      <recent name="$PROJECT_DIR$/devs/src/presentation/deliveries" />
+      <recent name="$PROJECT_DIR$/devs/src/presistence/dao/deliveries" />
+      <recent name="$PROJECT_DIR$/devs/src/logic/employees" />
+      <recent name="$PROJECT_DIR$/devs/src/presentation/employees" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\My Files\School\Programming\Java Projects\ADSS_Group_11_v02\devs\src\logic\models" />
+      <recent name="C:\My Files\School\Programming\Java Projects\ADSS_Group_11_v02\devs\src\presentation" />
+      <recent name="C:\My Files\School\Programming\Java Projects\ADSS_Group_11_v02\devs\src\presistence\dao" />
+      <recent name="C:\My Files\School\Programming\Java Projects\ADSS_Group_11_v02" />
+      <recent name="C:\My Files\School\Programming\Java Projects\ADSS_Group_11_v02\devs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="‫‪adss2019_v03" />
+      <shortenClasspath name="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="adss2019_v03" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="All in ‫‪adss2019_v02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="‫‪adss2019_v03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="‫‪adss2019_v03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="presistence.dao.inventory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="presistence.dao" />
+      <option name="MAIN_CLASS_NAME" value="presistence.dao.CategoryDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="‫‪adss2019_v03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logic.inventory.datatypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="logic.inventory.datatypes" />
+      <option name="MAIN_CLASS_NAME" value="logic.inventory.datatypes.DateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/ADSS_Group_12_jar/ADSS_Group_12.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\My Files\School\Programming\Java Projects\ADSS_Group_11" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/release/ADSS_Group_11.jar" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.2" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="JUnit.All in ‫‪adss2019_v02" />
+      <item itemvalue="JUnit.DateTest" />
+      <item itemvalue="JUnit.CategoryDAOTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.DateTest" />
+        <item itemvalue="JUnit.All in ‫‪adss2019_v02" />
+        <item itemvalue="JUnit.CategoryDAOTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e65ff05e-a6c5-4b66-adde-1aa27b276ee8" name="Default Changelist" comment="" />
+      <created>1552342583109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552342583109</updated>
+      <workItem from="1552342586503" duration="90000" />
+      <workItem from="1552342704385" duration="1016000" />
+      <workItem from="1552343745110" duration="403000" />
+      <workItem from="1552344170049" duration="336000" />
+      <workItem from="1552344531174" duration="1010000" />
+      <workItem from="1552345734306" duration="217000" />
+      <workItem from="1552346445534" duration="87000" />
+      <workItem from="1552346558904" duration="29000" />
+      <workItem from="1552346713574" duration="3212000" />
+      <workItem from="1552352712940" duration="781000" />
+      <workItem from="1552390162031" duration="1298000" />
+      <workItem from="1553801252161" duration="1248000" />
+      <workItem from="1553861091263" duration="3036000" />
+      <workItem from="1553867042771" duration="10024000" />
+      <workItem from="1553877817530" duration="9034000" />
+      <workItem from="1553893461968" duration="6833000" />
+      <workItem from="1553935279410" duration="36741000" />
+      <workItem from="1553986646181" duration="10480000" />
+      <workItem from="1554023732535" duration="142000" />
+      <workItem from="1554024017470" duration="14349000" />
+      <workItem from="1554045484742" duration="4076000" />
+      <workItem from="1554057328022" duration="2881000" />
+      <workItem from="1554113378090" duration="9000" />
+      <workItem from="1554133009641" duration="24299000" />
+      <workItem from="1554191953481" duration="23194000" />
+      <workItem from="1554218436106" duration="30960000" />
+      <workItem from="1554281292840" duration="35383000" />
+      <workItem from="1554324304943" duration="1777000" />
+      <workItem from="1554332364128" duration="3249000" />
+      <workItem from="1554367292434" duration="337000" />
+      <workItem from="1554369497896" duration="2193000" />
+      <workItem from="1554371791094" duration="23176000" />
+      <workItem from="1554396392207" duration="13069000" />
+      <workItem from="1554415317918" duration="104000" />
+      <workItem from="1554415466080" duration="53000" />
+      <workItem from="1554417924278" duration="142000" />
+      <workItem from="1555930455126" duration="1589000" />
+      <workItem from="1556188707936" duration="130000" />
+      <workItem from="1556188856267" duration="4867000" />
+      <workItem from="1556969220098" duration="10094000" />
+      <workItem from="1556995297103" duration="16581000" />
+      <workItem from="1557048383925" duration="10498000" />
+      <workItem from="1557064937299" duration="1091000" />
+      <workItem from="1557067532128" duration="6429000" />
+      <workItem from="1557147356452" duration="8908000" />
+      <workItem from="1557157046349" duration="255000" />
+      <workItem from="1557225149544" duration="9531000" />
+      <workItem from="1557248583936" duration="2794000" />
+      <workItem from="1557256465034" duration="93000" />
+      <workItem from="1557256839504" duration="738000" />
+      <workItem from="1557258384831" duration="1084000" />
+      <workItem from="1559474434944" duration="6023000" />
+      <workItem from="1559560799910" duration="55000" />
+      <workItem from="1559560876837" duration="67000" />
+      <workItem from="1559560967504" duration="38000" />
+      <workItem from="1559561165002" duration="598000" />
+      <workItem from="1559569742907" duration="1486000" />
+      <workItem from="1559571831477" duration="30000" />
+      <workItem from="1559572090086" duration="13451000" />
+      <workItem from="1559643891868" duration="3527000" />
+      <workItem from="1559649499250" duration="5970000" />
+      <workItem from="1559664363088" duration="1681000" />
+      <workItem from="1559684965734" duration="1777000" />
+      <workItem from="1559686825315" duration="14740000" />
+      <workItem from="1559736471394" duration="5239000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixes for the deliveries module">
+      <created>1559650456652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559650456652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="merged usage of products">
+      <created>1559654210747</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559654210747</updated>
+    </task>
+    <task id="LOCAL-00003" summary="merged usage of products">
+      <created>1559669021353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559669021353</updated>
+    </task>
+    <task id="LOCAL-00004" summary="merged usage of products">
+      <created>1559696928488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559696928488</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge branch '305278384_205583453_208347971_208421651_311242150_207227372_315875542_312239858' of https://gitlab.com/adss_group_11/adss_group_11 into 305278384_205583453_208347971_208421651_311242150_207227372_315875542_312239858&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;data.db&#10;#&#9;devs/src/Main.java&#10;#&#9;release/adss2019_v03.jar&#10;#&#9;release/data.db">
+      <created>1559755482162</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559755482162</updated>
+    </task>
+    <task id="LOCAL-00006" summary="last commit">
+      <created>1559764812780</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559764812780</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_‫‪adss2019_v02 - 2019.04.04 at 23h 15m 08s.xml">
+      <configuration name="All in ‫‪adss2019_v02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_‫‪adss2019_v02 - 2019.04.04 at 23h 15m 42s.xml">
+      <configuration name="All in ‫‪adss2019_v02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_‫‪adss2019_v02 - 2019.04.04 at 23h 16m 01s.xml">
+      <configuration name="All in ‫‪adss2019_v02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_‫‪adss2019_v02 - 2019.04.04 at 23h 16m 08s.xml">
+      <configuration name="All in ‫‪adss2019_v02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_‫‪adss2019_v02 - 2019.04.04 at 23h 18m 10s.xml">
+      <configuration name="All in ‫‪adss2019_v02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_‫‪adss2019_v02 - 2019.04.04 at 23h 18m 27s.xml">
+      <configuration name="All in ‫‪adss2019_v02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_‫‪adss2019_v02 - 2019.04.04 at 23h 18m 31s.xml">
+      <configuration name="All in ‫‪adss2019_v02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_‫‪adss2019_v02 - 2019.04.04 at 23h 20m 14s.xml">
+      <configuration name="All in ‫‪adss2019_v02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateTest - 2019.04.04 at 23h 20m 19s.xml">
+      <configuration name="DateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DateTest - 2019.04.04 at 23h 23m 47s.xml">
+      <configuration name="DateTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="415255000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14872068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.33152762" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49970186" weight="0.2768755" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29234338" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32946634" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4994678" weight="0.28277355" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32924226" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005322" side_tool="true" weight="0.32870865" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31709203" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.32950193" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32922953" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14257348" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33255994" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49970186" visible="true" weight="0.27764887" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29234338" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32946634" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4994678" weight="0.32869297" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32924226" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005322" side_tool="true" weight="0.32870865" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31709203" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="13" weight="0.32950193" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32922953" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixes for the deliveries module" />
+    <MESSAGE value="merged usage of products" />
+    <MESSAGE value="Merge branch '305278384_205583453_208347971_208421651_311242150_207227372_315875542_312239858' of https://gitlab.com/adss_group_11/adss_group_11 into 305278384_205583453_208347971_208421651_311242150_207227372_315875542_312239858&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;data.db&#10;#&#9;devs/src/Main.java&#10;#&#9;release/adss2019_v03.jar&#10;#&#9;release/data.db" />
+    <MESSAGE value="last commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/presistence/dao/inventory/StockDAO.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/presistence/dao/inventory/CategoryDAO.java</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/logic/inventory/ReportsProcessor.java</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/logic/inventory/ReportsProcessor.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/presentation/inventory/printers/StockPrinter.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/presentation/inventory/printers/StockPrinter.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/logic/inventory/ProductsProcessor.java</url>
+          <line>231</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/logic/inventory/DefectsProcessor.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/presistence/dao/suppliers/ProductDAO.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/presistence/dao/inventory/BranchesDAO.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/logic/inventory/InventoryInteractor.java</url>
+          <line>353</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/presentation/suppliers/SupplierPrinter.java</url>
+          <line>321</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/presistence/dao/suppliers/ProductDAO.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/logic/inventory/ProductsProcessor.java</url>
+          <line>254</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/presistence/dao/deliveries/DeliveryDAO.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/logic/employees/EmployeesInteractor.java</url>
+          <line>694</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/presistence/dao/deliveries/DeliveryDocDAO.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/logic/inventory/InventoryInteractor.java</url>
+          <line>347</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/logic/inventory/InventoryInteractor.java</url>
+          <line>267</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/devs/src/logic/inventory/InventoryInteractor.java</url>
+          <line>309</line>
+          <properties />
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/suppliers/models/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/suppliers/models/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/suppliers/models/SupplierType3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#535#536#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/deliveries/ProductDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/deliveries/Windows/DataManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="431" column="61" lean-forward="true" selection-start-line="431" selection-start-column="61" selection-end-line="431" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/employees/RoleDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/employees/EmpRolesDescDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/employees/ConstraintsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-682">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/deliveries/DriverDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/deliveries/models/DeliveryDoc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#753#754#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/deliveries/models/SupplierOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/deliveries/models/Site.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/deliveries/models/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/deliveries/SiteDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/employees/ShiftsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="136" column="82" selection-start-line="136" selection-start-column="82" selection-end-line="136" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/inventory/models/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="e#2546#2547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/ConnectionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#902#903#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/deliveries/DeliveryDocDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/deliveries/DeliveryDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/deliveries/TruckDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/employees/models/Shift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-11-oracle/lib/src.zip!/java.base/java/time/format/DateTimeFormatter.java" />
+    <entry file="jar:///usr/lib/jvm/java-11-oracle/lib/src.zip!/java.base/java/time/LocalDateTime.java" />
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/employees/ShiftsAssigningDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2499">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/deliveries/models/Branch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/deliveries/BranchDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1962">
+          <caret line="116" column="58" selection-start-line="116" selection-start-column="58" selection-end-line="116" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/inventory/models/DefectiveProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/inventory/DefectiveDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="68" column="39" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/inventory/ProductsProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4410">
+          <caret line="257" column="110" selection-start-line="257" selection-start-column="110" selection-end-line="257" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/inventory/models/StockProducts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="e#2456#2457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/inventory/StockDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/inventory/InventoryProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presentation/suppliers/SupplierPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/employees/models/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="134" column="27" selection-start-line="134" selection-start-column="27" selection-end-line="134" selection-end-column="27" />
+          <folding>
+            <element signature="e#2810#2811#0" expanded="true" />
+            <element signature="e#2838#2839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/inventory/datatypes/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="124" column="52" selection-start-line="124" selection-start-column="52" selection-end-line="124" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/suppliers/SupplierInteractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="147" column="66" lean-forward="true" selection-start-line="147" selection-start-column="66" selection-end-line="147" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presentation/inventory/TableList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="299" column="28" selection-start-line="299" selection-start-column="28" selection-end-line="299" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/deliveries/Windows/DeliveryManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presentation/inventory/InventoryPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="381" column="30" lean-forward="true" selection-start-line="381" selection-start-column="30" selection-end-line="381" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/inventory/ProductsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="88" column="35" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/Repository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="444" selection-start-line="444" selection-end-line="444" />
+          <folding>
+            <element signature="e#20184#20185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/deliveries/SiteReportDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="78" column="12" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/deliveries/ProductDeliveryDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/deliveries/SupplierDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="79" column="67" selection-start-line="79" selection-start-column="61" selection-end-line="79" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/inventory/InventoryInteractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="434" column="57" selection-start-line="434" selection-start-column="57" selection-end-line="434" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#39520#39521#0" expanded="true" />
+            <element signature="e#39567#39568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/deliveries/models/Delivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/Processor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="62" column="104" selection-start-line="62" selection-start-column="104" selection-end-line="62" selection-end-column="104" />
+          <folding>
+            <element signature="e#10032#10033#0" expanded="true" />
+            <element signature="e#10102#10103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presistence/dao/employees/EmployeeDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="119" column="33" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/logic/employees/EmployeesInteractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-657">
+          <caret line="125" column="34" selection-start-line="125" selection-start-column="34" selection-end-line="125" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devs/src/presentation/employees/EmployeesPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="90" column="27" lean-forward="true" selection-start-line="90" selection-start-column="27" selection-end-line="92" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>adss2019_v03</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1992966" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1992966" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1992966" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>‫‪adss2019_v03</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1992966" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1992966" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
